@@ -14,3 +14,13 @@ To install the GUI of the clamp in a PC,
 Design Files
 1)Clamp.iges file consists of the clamp design which holds threded rod of M-12 size and couples it to the motor
 2)Motor.iges file consists of the holder design which couples the motor to the slider
+Code Files
+1)servo_gui.ino consists the arduino code for the clamp which is to be uploaded
+2)Application Files folder consists all build files of the application which need not be tweaked
+3)Autorun.inf allows computer to select the application files when form is executed
+4)Clamp.exe is the executable file for the GUI
+Precautions
+1)Ensure Arduino is on COM10
+2)Do not put additional weight on clamp over 6kg
+3)Tweak servo_gui.ino to adjust the mean postion of the servo
+
