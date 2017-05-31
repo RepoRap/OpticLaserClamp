@@ -11,3 +11,6 @@ To install the GUI of the clamp in a PC,
 7)Change COM Port to COM10
 8)Once Arduino is on COM10, Open Clamp.exe
 9)Use GUI to control position of the motor
+Design Files
+1)Clamp.iges file consists of the clamp design which holds threded rod of M-12 size and couples it to the motor
+2)Motor.iges file consists of the holder design which couples the motor to the slider
