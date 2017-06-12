@@ -1,4 +1,4 @@
-# OpticLaserClamp
+#Optical Bio Laser Target Angulation
 This repo consists all arduino and windows form application for the clamp programmed to angulate target.
 It has also got the IGES format files of the componentsthat have been printed for this project.
 To install the GUI of the clamp in a PC,
